@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<body>
+<div class='container'>
+<head>
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<link rel='stylesheet' href='bootstrap-3.3.5-dist/css/bootstrap.css'>
+	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="about.css"/>
+	<title>About</title>
+</head> 
+<h1>About Us</h1> 
+<p1>We are the University of St Andrews Photography Society. As a student run society are hope is to connect students that share a love for photography. From portrait to landscape we hope to provide a platform where students can learn new skills. We run workshops including basics, wildlife and street photography. Every year we also run exhibitions where students can show their work. Check out our Facebook page for more information about workshops and events.</p> 
+
+<div id='buzz'>
+    <h2>Photography Society Committee 2015</h2>
+    <div class='row'>
+    <div class='col-sm-4'>
+    <div>
+    	<p class='text-center'><img src='natalia2.jpg' class='img-circle'></p>
+    	<blockquote>
+    	<p>Natalia Fedorova</p>
+    	<small>President</small>
+    </div>
+    </div>
+    <div class='col-sm-4'>
+    <div>
+    	<p class='text-center'><img src='manon.jpg' class='img-circle'></p>
+    	<blockquote>
+    	<p>Manon Mispiratceguy</p>
+    	</blockquote>
+    	<small>Vice President</small>
+    </div>
+    </div>
+    <div class='col-sm-4'>
+    <div>
+    	<p class='text-center'><img src='john.jpg' class='img-circle'></p>
+    	<blockquote>
+    	<p>John Heenan</p>
+    	</blockquote>
+    	<small>Treasurer</small>
+    </div>
+    </div>
+    <div class='col-sm-4'>
+    <div>
+    	<p class='text-center'><img src='diksha.jpg' class='img-circle'></p>
+    	<blockquote>
+    	<p>Diksha Babbar</p>
+    	<small>Secretary</small>
+    </div>
+    </div>
+    <div class='col-sm-4'>
+    <div>
+      <p class='text-center'><img src='julia.jpg' class='img-circle'></p>
+      <blockquote>
+      <p>Julia Chatfield</p>
+      </blockquote>
+      <small>Publicity Officer</small>
+    </div>
+   	</div>
+   	<div class='col-sm-4'>
+   	<div>
+   		<p class='text-center'><img src='gautam.jpg' class='img-circle'></p>
+   		<blockquote>
+   		<p>Gautam Bagga</p>
+   		</blockquote>
+   		<small>Events Officer</small>
+   	</div>
+   	</div>
+</div>
+</div>
+</body>
+   
